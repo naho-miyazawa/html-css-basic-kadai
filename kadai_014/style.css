@@ -1,0 +1,31 @@
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    letter-spacing: 48px;
+    text-shadow: 2px 2px 3px yellow;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+h1 .profile {
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2rem;    
+
+}
+
+.text-skyblue {
+    color: skyblue;
+}
+
+.text-pink {
+    color: rgb(255, 192, 203);
+}
+
+.child {
+    font-weight: bold;
+}
